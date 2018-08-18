@@ -38,9 +38,9 @@ After above tools have already installed completely, you perform the guide as fo
   * Finally, connect to gdb server and debug.
 
     ```shell
-    target remote localhost:2000
-    load build/cli_main.elf
-    continue
+    (gdb) target remote localhost:2000
+    (gdb) load build/cli_main.elf
+    (gdb) continue
     ```
 
 * Clean the project
