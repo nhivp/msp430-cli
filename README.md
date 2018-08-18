@@ -9,6 +9,7 @@ A Command Line Interface (CLI) for MSP430G2 LaunchPad
 * Flasher:   mspdebug
 * IDE:       None
 * Build:     Makefile
+* Serial Console: screen
 
 ## How to compile and upload the program
 
@@ -47,6 +48,12 @@ After above tools have already installed completely, you perform the guide as fo
 
   ```shell
   make clean
+  ```
+
+* Using the *screen* for serial interface
+
+  ```shell
+  sudo screen /dev/ttyACM0 -b 9600
   ```
 
 ## Screenshot
