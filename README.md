@@ -60,10 +60,15 @@ After above tools have already installed completely, you perform the guide as fo
 
 ![MSP430-CLI](https://raw.githubusercontent.com/nhivp/msp430-cli/master/docs/imgs/msp430-cli.png "MSP430-CLI")
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md)
+
 ## Useful links
 
 * [A list of embedded command-line-interface projects](http://www.dalescott.net/an-embedded-command-line-interface/)
 
-Feel free to create pull requests and I will gladly accept them!
+## Contributing
+Feel free to create pull requests and I will gladly accept them! :clap: :clap:
 
 Good luck, and happy hacking?! :yum:
